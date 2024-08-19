@@ -1,6 +1,6 @@
 <p align="center">
 <img src="/documentation_images/jira-logo.png" alt="jira-logo" 
-width="600" height="150">
+width="700" height="150">
 </p>
 
 ## About
